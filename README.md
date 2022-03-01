@@ -1,20 +1,22 @@
 # Cloud-Classifier
 Spring 2022 AIT Deep Learning Project
-Authors: Teah Markstone and Madeline Grace McLaughlin
-Summary:
-\n This deep learning model is trained on various images of clouds in order to classify them as 
 
-High cloud types
+Authors: Teah Markstone and Madeline Grace McLaughlin
+
+Summary:
+This deep learning model is trained on various images of clouds in order to classify them as 
+
+High cloud types:
 Cirrus
 Cirrocumulus
 Cirrostratus
 
-Medium cloud types
+Medium cloud types:
 Altocumulus
 Altostratus
 Nimbostratus
 
-Low cloud types
+Low cloud types:
 Stratocumulus
 Stratus
 Cumulus
